@@ -1,0 +1,13 @@
+openai
+pandas
+numpy
+scikit-learn
+uvicorn
+fastapi
+SQLAlchemy
+pymysql
+python-dotenv
+sqlmodel
+cryptography
+jinja2
+python-multipart
