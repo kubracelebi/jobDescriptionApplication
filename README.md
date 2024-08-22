@@ -4,8 +4,11 @@ This project integrates FastAPI with OpenAI for semantic text processing and Doc
 
 🔧 Key Components:
 Docker: Manages Gitea and MySQL services.
+
 FastAPI: Handles requests and interacts with OpenAI.
+
 OpenAI: Drives semantic matching and content generation.
+
 MySQL: Stores generated results efficiently.
 
 
